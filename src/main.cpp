@@ -73,6 +73,11 @@ const int brightness2 = 10;
 SparkFun_APDS9960 apds;
 uint8_t Touch_flag = 0;
 
+// 함수 선언
+// 함수 프로토타입
+uint8_t handleGesture();
+void performNearGesture();
+
 uint16_t readTouchSensor() {
   uint16_t touchValue = touchRead(TOUCH_PIN);
   //Serial.println(touchValue);
