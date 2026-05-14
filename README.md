@@ -1,4 +1,4 @@
-# 🪄 Grimoire
+# Grimoire
 
 A magic gadget project that brings interactive lighting and gesture sensing to an ESP32 microcontroller. This project combines RGB NeoPixel LEDs with an APDS-9960 gesture sensor to create a responsive, gesture-controlled lighting device.
 
@@ -28,11 +28,11 @@ Grimoire is an Arduino-based ESP32 project that demonstrates advanced sensor int
 
 ## Features
 
-- ✨ **Gesture Recognition**: Detect hand gestures (UP, DOWN, LEFT, RIGHT, NEAR, FAR)
-- 🌈 **RGB LED Control**: Dynamic color control via NeoPixel LEDs
-- 🔊 **Audio Integration**: Sound playback support with ReDMP3 module
-- 📱 **Interactive**: Real-time response to user gestures
-- ⚡ **Efficient**: Optimized for ESP32 performance
+- **Gesture Recognition**: Detect hand gestures (UP, DOWN, LEFT, RIGHT, NEAR, FAR)
+- **RGB LED Control**: Dynamic color control via NeoPixel LEDs
+- **Audio Integration**: Sound playback support with ReDMP3 module
+- **Interactive**: Real-time response to user gestures
+- **Efficient**: Optimized for ESP32 performance
 
 ## Getting Started
 
